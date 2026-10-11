@@ -640,7 +640,7 @@ Instructions:
 
       <header className={styles.header}>
         <h1>
-          Interactive Data Visualizer
+          Interactive Data Visualizer by David Vasquez
         </h1>
 
         <p>
