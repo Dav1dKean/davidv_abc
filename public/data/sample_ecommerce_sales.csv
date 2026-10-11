@@ -1,0 +1,61 @@
+OrderID,OrderDate,Region,Category,SalesChannel,UnitsSold,UnitPrice,DiscountPercent,Revenue,CustomerRating,ShippingDays,Returned,PaymentMethod
+ORD-1001,2026-01-05,Northeast,Electronics,Marketplace,1,212.76,0,212.76,3.5,2,Yes,Digital Wallet
+ORD-1002,2026-01-09,Southeast,Electronics,Marketplace,1,136.96,0,136.96,4.1,1,Yes,Digital Wallet
+ORD-1003,2026-01-13,Midwest,Home,Mobile App,8,81.23,0,649.84,4.5,3,No,PayPal
+ORD-1004,2026-01-17,Midwest,Home,Website,6,57.48,10,310.39,3.3,6,Yes,Digital Wallet
+ORD-1005,2026-01-21,Midwest,Sports,Marketplace,2,86.61,10,155.9,3.2,5,Yes,PayPal
+ORD-1006,2026-01-25,Southwest,Electronics,Mobile App,1,203.37,5,193.2,5.0,4,No,Digital Wallet
+ORD-1007,2026-01-29,Southeast,Clothing,Marketplace,3,42.33,0,126.99,4.4,2,Yes,PayPal
+ORD-1008,2026-02-02,Northeast,Home,Website,8,71.0,20,454.4,4.4,4,No,Credit Card
+ORD-1009,2026-02-06,Southwest,Clothing,Mobile App,7,39.33,0,275.31,4.8,6,No,Digital Wallet
+ORD-1010,2026-02-10,Southwest,Home,Marketplace,5,59.31,20,237.24,4.2,5,Yes,Digital Wallet
+ORD-1011,2026-02-14,Northeast,Clothing,Website,4,60.67,0,242.68,4.1,2,No,PayPal
+ORD-1012,2026-02-18,Northeast,Books,Marketplace,2,20.9,15,35.53,5.0,5,Yes,Credit Card
+ORD-1013,2026-02-22,Southwest,Sports,Website,5,77.97,5,370.36,3.3,7,No,Debit Card
+ORD-1014,2026-02-26,West,Sports,Website,3,66.95,0,200.85,4.8,5,Yes,PayPal
+ORD-1015,2026-03-02,Northeast,Clothing,Website,3,47.28,15,120.56,4.8,6,No,Debit Card
+ORD-1016,2026-03-06,Northeast,Clothing,Marketplace,4,33.19,15,112.85,4.9,2,No,PayPal
+ORD-1017,2026-03-10,West,Home,Marketplace,8,98.66,0,789.28,3.6,7,No,PayPal
+ORD-1018,2026-03-14,Southeast,Clothing,Website,7,60.61,20,339.42,3.8,8,No,Credit Card
+ORD-1019,2026-03-18,Northeast,Clothing,Website,1,48.71,0,48.71,4.2,1,No,Credit Card
+ORD-1020,2026-03-22,West,Electronics,Website,6,134.29,0,805.74,3.6,8,No,Digital Wallet
+ORD-1021,2026-03-26,Southwest,Home,Mobile App,8,91.87,0,734.96,3.3,7,No,Digital Wallet
+ORD-1022,2026-03-30,Southeast,Electronics,Website,2,133.09,20,212.94,3.7,2,No,Digital Wallet
+ORD-1023,2026-04-03,West,Home,Website,7,61.45,10,387.14,3.6,2,No,Credit Card
+ORD-1024,2026-04-07,Southeast,Sports,Mobile App,1,86.44,0,86.44,3.4,8,No,Credit Card
+ORD-1025,2026-04-11,Southwest,Home,Marketplace,7,52.61,10,331.44,3.6,8,No,Digital Wallet
+ORD-1026,2026-04-15,Northeast,Home,Website,4,66.96,0,267.84,4.2,1,No,Digital Wallet
+ORD-1027,2026-04-19,West,Sports,Website,3,47.9,15,122.14,3.3,3,No,PayPal
+ORD-1028,2026-04-23,Northeast,Books,Mobile App,2,28.86,15,49.06,3.6,1,Yes,Debit Card
+ORD-1029,2026-04-27,Midwest,Clothing,Mobile App,4,51.09,5,194.14,3.6,7,No,Debit Card
+ORD-1030,2026-05-01,Southeast,Electronics,Marketplace,1,179.62,15,152.68,5.0,2,Yes,Debit Card
+ORD-1031,2026-05-05,West,Home,Marketplace,6,95.44,0,572.64,3.8,3,No,Debit Card
+ORD-1032,2026-05-09,Midwest,Sports,Website,1,73.72,15,62.66,3.7,2,No,Credit Card
+ORD-1033,2026-05-13,Midwest,Sports,Marketplace,3,57.01,15,145.38,3.5,6,No,Digital Wallet
+ORD-1034,2026-05-17,Midwest,Clothing,Website,1,34.2,10,30.78,4.7,1,No,Debit Card
+ORD-1035,2026-05-21,Southeast,Home,Marketplace,8,79.39,10,571.61,4.2,2,No,Credit Card
+ORD-1036,2026-05-25,Southeast,Clothing,Marketplace,3,44.07,0,132.21,3.7,1,No,PayPal
+ORD-1037,2026-05-29,Southeast,Electronics,Website,6,217.27,10,1173.26,5.0,3,No,Digital Wallet
+ORD-1038,2026-06-02,Midwest,Electronics,Website,3,212.18,5,604.71,4.6,7,No,Credit Card
+ORD-1039,2026-06-06,Midwest,Books,Website,1,27.68,0,27.68,3.5,8,No,PayPal
+ORD-1040,2026-06-10,West,Electronics,Mobile App,4,172.62,5,655.96,4.7,5,No,Debit Card
+ORD-1041,2026-06-14,Northeast,Electronics,Marketplace,2,228.61,5,434.36,3.4,5,No,Digital Wallet
+ORD-1042,2026-06-18,Northeast,Clothing,Marketplace,6,44.26,15,225.73,3.3,4,No,Digital Wallet
+ORD-1043,2026-06-22,Midwest,Electronics,Marketplace,4,168.61,0,674.44,4.9,6,Yes,Credit Card
+ORD-1044,2026-06-26,Southeast,Clothing,Website,5,51.01,5,242.3,3.9,5,Yes,Digital Wallet
+ORD-1045,2026-06-30,Midwest,Books,Website,3,24.2,5,68.97,3.9,1,No,Digital Wallet
+ORD-1046,2026-07-04,Northeast,Sports,Mobile App,6,65.15,10,351.81,4.4,8,No,Debit Card
+ORD-1047,2026-07-08,Northeast,Electronics,Website,4,204.72,0,818.88,4.6,3,No,Digital Wallet
+ORD-1048,2026-07-12,Southwest,Sports,Website,2,64.74,20,103.58,4.2,7,No,PayPal
+ORD-1049,2026-07-16,West,Electronics,Website,2,217.08,0,434.16,3.4,8,No,Credit Card
+ORD-1050,2026-07-20,West,Books,Marketplace,3,26.86,20,64.46,4.1,6,No,Digital Wallet
+ORD-1051,2026-07-24,Southeast,Sports,Marketplace,8,83.41,20,533.82,4.7,8,No,Debit Card
+ORD-1052,2026-07-28,Midwest,Sports,Mobile App,8,71.98,5,547.05,3.9,5,No,Debit Card
+ORD-1053,2026-08-01,Northeast,Sports,Mobile App,2,51.35,0,102.7,3.8,3,No,Digital Wallet
+ORD-1054,2026-08-05,Northeast,Clothing,Marketplace,8,43.66,0,349.28,4.7,7,Yes,Digital Wallet
+ORD-1055,2026-08-09,West,Books,Marketplace,1,28.88,5,27.44,4.5,7,Yes,PayPal
+ORD-1056,2026-08-13,Southeast,Books,Mobile App,4,19.3,10,69.48,3.2,6,No,PayPal
+ORD-1057,2026-08-17,Southwest,Sports,Website,1,83.82,15,71.25,4.2,1,No,Digital Wallet
+ORD-1058,2026-08-21,Southwest,Home,Mobile App,1,65.18,5,61.92,3.5,6,No,Digital Wallet
+ORD-1059,2026-08-25,Northeast,Clothing,Marketplace,2,45.26,20,72.42,4.1,6,No,Credit Card
+ORD-1060,2026-08-29,Southwest,Electronics,Marketplace,4,149.33,0,597.32,4.3,4,No,Credit Card
